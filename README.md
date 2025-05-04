@@ -1,4 +1,4 @@
 # Port-Scanner
 Port_Scanner
 <br>
-Author: Sandesh Singh
+Author: Sandesh Singh Danuwar
